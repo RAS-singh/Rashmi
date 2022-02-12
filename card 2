@@ -1,0 +1,79 @@
+<html>
+<head>
+<style>
+body{background:url(https://www.freepik.com/free-vector/clean-style-modern-business-card-template_12686080.htm#query=business%20card%20background&position=1&from_view=keyword)}
+#maincontainer{height:100vh;} 
+#container{
+width:350px;
+margin: auto;
+} 
+#header{text-align:centre;
+background: blue;
+padding:5px;
+}
+img{border-radius:50%}
+#imgDiv{text-align: centre;
+padding:20px;
+}
+#Section{background-color:pink;}
+#pDiv{color:white;
+text-align: centre;
+padding:20px;
+}
+table{width:100%;
+color:black;
+}
+#tableDiv{padding:10px;}
+#btnDiv{text-align: centre;
+padding:30px;
+}
+button{padding:10px;
+border:none;
+background-colour:cornsilk;
+border-radius:5px;
+width:30%;
+margin-right:20px;
+}
+    
+</style>
+</head>
+
+
+<body>
+<div id="maincontainer">
+<div id="container">
+<div id="header">
+<h1>RASHMI</h1>
+</div>
+
+
+
+<div id="Section">
+<div id="imgDiv">
+<img src="https://images.pexels.com/photos/2422293/pexels-photo-2422293.jpeg?cs=srgb&dl=pexels-jopwell-2422293.jpg&fm=jpg"
+height="150px"
+width="150px"
+/>
+</div>
+<div id="pdiv">
+<p> The term business refers to an organization or enterprising entity engaged in commercial, industrial, or professional activities. Businesses can be for-profit entities or they can be non-profit organizations that operate to fulfill a charitable mission or further a social cause.
+</p>
+</div>
+<div id ="tableDiv">
+<table>
+<tr>
+<th><h4>100</h4>
+<h4>Post</h4>
+<th><h4>500</h4>
+<h4>followers</h4>
+<th><h4>200</h4>
+<h4>following</h4>
+</th>
+</tr>
+</table>
+</div>
+<div id ="btnDiv">
+<button>follow</button>
+<button>message</button>
+</body>
+</html>
